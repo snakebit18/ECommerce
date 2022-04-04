@@ -31,3 +31,16 @@ main{
 .product-info{
 padding: 1rem;
 }
+.rating span{
+  color:#ffc000;
+}
+.btn-primary{
+  background-color:#f0c040;
+  color:black;
+}
+.img-large {
+  max-width: 100%;
+}
+.img-thumbnail {
+  height: 80px;
+}
